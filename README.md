@@ -1,5 +1,10 @@
 # E-Commerce Spring API
 
+[![Java 21](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+[![Spring Boot 4.0.2](https://img.shields.io/badge/Spring%20Boot-4.0.2-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Maven Wrapper](https://img.shields.io/badge/Maven%20Wrapper-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/wrapper/)
+[![MySQL](https://img.shields.io/badge/MySQL-8+-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 A Spring Boot REST API for browsing an e-commerce product catalog. The application stores products and reviews in MySQL, supports paginated product listings and filtered search, and seeds a set of demo products on first startup.
 
 ## Features
